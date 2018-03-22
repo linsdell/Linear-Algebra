@@ -1,5 +1,3 @@
-# Linear-Algebra
-Code that I have written which applies what I have learned in linear algebra during my first year of engineering.
 
 ## Determinant of any Real Square Matrix
 This was my first project applying my linear algebra knowledge. I wrote this program in MATLAB as a starting point and I plan to translate it into either Java or Python. The program allows you to write in any real NxN matrix, and have it return the determinant of said matrix.
